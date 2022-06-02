@@ -317,7 +317,7 @@ class _GameScreenState extends State<GameScreen> {
                           ),
                         ).paddingSymmetric(horizontal: 20),
                       ],
-                    ),
+                    ).paddingOnly(bottom: 20),
                   ),
                 ),
         ));
